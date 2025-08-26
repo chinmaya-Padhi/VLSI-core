@@ -1,6 +1,6 @@
-# 🔌 VLSO Core — Daily VLSI Coding Progress
+# 🔌 VLSI Core — Daily VLSI Coding Progress
 
-Welcome to **VLSO Core**, my daily log and code archive for learning and practicing **VLSI core concepts**.  
+Welcome to **VLSI Core**, my daily log and code archive for learning and practicing **VLSI core concepts**.  
 I’m starting with **basic Verilog coding**, and over time will expand into **SystemVerilog** and other advanced VLSI design topics.
 
 ---
